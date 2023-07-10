@@ -1,0 +1,77 @@
+m255
+K4
+z2
+!s11f vlog 2020.4 2020.10, Oct 13 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dE:/semester3/MadarManteghi/Project
+T_opt
+!s110 1643800113
+VFH5A`kAWMeQaMbj=F_Vak3
+04 9 4 work testbench fast 0
+=1-9c2a7040a878-61fa662c-4a-ef4
+Z1 o-quiet -auto_acc_if_foreign -work work +acc
+Z2 tCvgOpt 0
+n@_opt
+Z3 OL;O;2020.4;71
+R0
+T_opt1
+!s110 1643797713
+V>J7WAAKCcNT?]3WkVg;G33
+04 6 4 work myproj fast 0
+=1-9c2a7040a878-61fa5cd0-25d-1088
+R1
+R2
+n@_opt1
+R3
+R0
+vmyproj
+Z4 !s110 1643800320
+!i10b 1
+!s100 cza<LV=TikC>]=ZULSL`]1
+Z5 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I3?MUO^9RJ17Cd`ia:RY121
+Z6 dC:/Users/Pouria.N/Desktop/LogicCircuit
+Z7 w1643800314
+Z8 8C:/Users/Pouria.N/Desktop/LogicCircuit/myproj.v
+Z9 FC:/Users/Pouria.N/Desktop/LogicCircuit/myproj.v
+!i122 15
+L0 1 29
+Z10 VDg1SIo80bB@j0V0VzS_@n1
+Z11 OL;L;2020.4;71
+r1
+!s85 0
+31
+Z12 !s108 1643800319.000000
+!s107 C:/Users/Pouria.N/Desktop/LogicCircuit/myproj.v|
+Z13 !s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/Pouria.N/Desktop/LogicCircuit/myproj.v|
+!i113 0
+Z14 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R2
+vtestbench
+R4
+!i10b 1
+!s100 43j;12ldLko<?MlFz4ec^2
+R5
+I15eW;RO9TRPm]<?LKNXFF3
+R6
+R7
+R8
+R9
+!i122 15
+L0 31 26
+R10
+R11
+r1
+!s85 0
+31
+R12
+Z15 !s107 C:/Users/Pouria.N/Desktop/LogicCircuit/myproj.v|
+R13
+!i113 0
+R14
+R2

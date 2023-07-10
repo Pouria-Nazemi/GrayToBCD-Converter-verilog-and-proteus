@@ -1,0 +1,9 @@
+C:/Users/Pouria.N/Desktop/LogicCircuit/myproj.v {1 {vlog -work work -vopt -stats=none C:/Users/Pouria.N/Desktop/LogicCircuit/myproj.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module myproj
+-- Compiling module testbench
+
+Top level modules:
+	testbench
+
+} {} {}}
